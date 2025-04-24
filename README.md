@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Ryan Lu!
+### Hi there 👋 I'm Ryan Lu!
 - 👋 Hi, I’m @lur913
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning golang and ai
